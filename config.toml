@@ -20,11 +20,11 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "https://github.com/yuxue116"
+  Github        = "yuxue116"
   Email         = "ysang.mam2021@london.edu"
-  LinkedIn      = "https://www.linkedin.com/in/yuxue-sang-b782a81a3/"
+  LinkedIn      = "yuxue-sang-b782a81a3"
   Medium        = "username"
-  Telegram      = "username"
+  Telegram      = "+86 135 3038 7157"
 
 ## Main Menu
 [[menu.main]]
